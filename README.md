@@ -14,7 +14,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 >
 >>Personalizar con material design de google Material Bottom Tabs Navigator [Material Bottom Tabs Navigator - Environment Setup](https://reactnavigation.org/docs/material-bottom-tab-navigator/).
 >
->>Material Top Tabs Navigator [Material Top Tabs Navigator - Environment Setup]([https://reactnavigation.org/docs/stack-navigator/](https://reactnavigation.org/docs/material-top-tab-navigator/)).
+>>Material Top Tabs Navigator [Material Top Tabs Navigator - Environment Setup](https://reactnavigation.org/docs/material-top-tab-navigator/).
 >
 >>Repositorio de iconos [Repositorio de iconos - Environment Setup](https://github.com/oblador/react-native-vector-icons).
 >
