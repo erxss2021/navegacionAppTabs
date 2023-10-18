@@ -5,6 +5,13 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 >
 >>Inicializar con React-Navigation [React Navigation - Environment Setup](https://reactnavigation.org/docs/getting-started).
+>>Inicializar con Stack Navigator [Stack Navigator - Environment Setup](https://reactnavigation.org/docs/stack-navigator/).
+>>Proceso para Drawer Navigator [Drawer Navigator - Environment Setup](https://reactnavigation.org/docs/drawer-navigator/).
+>>Proceso para Bottom Tabs Navigator [Bottom Tabs Navigator - Environment Setup](https://reactnavigation.org/docs/bottom-tab-navigator/).
+>>Personalizar con material design de google Material Bottom Tabs Navigator [Material Bottom Tabs Navigator - Environment Setup](https://reactnavigation.org/docs/material-bottom-tab-navigator/).
+>>Material Top Tabs Navigator [Material Top Tabs Navigator - Environment Setup]([https://reactnavigation.org/docs/stack-navigator/](https://reactnavigation.org/docs/material-top-tab-navigator/)).
+>>Repositorio de iconos [Repositorio de iconos - Environment Setup](https://github.com/oblador/react-native-vector-icons).
+>>Ionicons [Ionicons](https://ionic.io/ionicons/).
 
 ## Step 1: Start the Metro Server
 
